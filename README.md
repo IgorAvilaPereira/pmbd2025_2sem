@@ -4,6 +4,8 @@
 [setup.md](https://github.com/IgorAvilaPereira/pmbd2025_2sem/blob/main/./00_guia_rapido/setup.md) <br>
 [videos.md](https://github.com/IgorAvilaPereira/pmbd2025_2sem/blob/main/./00_guia_rapido/videos.md) <br>
 ## [./01_introducao_er](https://github.com/IgorAvilaPereira/pmbd2025_2sem/tree/main/./01_introducao_er) <br>
+[entidade-associativa.md](https://github.com/IgorAvilaPereira/pmbd2025_2sem/blob/main/./01_introducao_er/entidade-associativa.md) <br>
+[entidade-fraca.md](https://github.com/IgorAvilaPereira/pmbd2025_2sem/blob/main/./01_introducao_er/entidade-fraca.md) <br>
 [etapas.png](https://github.com/IgorAvilaPereira/pmbd2025_2sem/blob/main/./01_introducao_er/etapas.png) <br>
 [exemplo.dia](https://github.com/IgorAvilaPereira/pmbd2025_2sem/blob/main/./01_introducao_er/exemplo.dia) <br>
 [introducao_banco_de_dados.md](https://github.com/IgorAvilaPereira/pmbd2025_2sem/blob/main/./01_introducao_er/introducao_banco_de_dados.md) <br>
