@@ -20,7 +20,9 @@
 [imagens](https://github.com/IgorAvilaPereira/pmbd2025_2sem/blob/main/./01_introducao_er/imagens) <br>
 ## [./02_exercicios_er](https://github.com/IgorAvilaPereira/pmbd2025_2sem/tree/main/./02_exercicios_er) <br>
 [clinica_veterinaria.dia](https://github.com/IgorAvilaPereira/pmbd2025_2sem/blob/main/./02_exercicios_er/clinica_veterinaria.dia) <br>
+[etapas.png](https://github.com/IgorAvilaPereira/pmbd2025_2sem/blob/main/./02_exercicios_er/etapas.png) <br>
 [lista_er.md](https://github.com/IgorAvilaPereira/pmbd2025_2sem/blob/main/./02_exercicios_er/lista_er.md) <br>
+[mapamental.png](https://github.com/IgorAvilaPereira/pmbd2025_2sem/blob/main/./02_exercicios_er/mapamental.png) <br>
 ### Sistema Acadêmico
 
 Descrição: Uma escola quer organizar alunos, professores, turmas e disciplinas.
@@ -63,3 +65,5 @@ Desafios:
 
 <br><br>[Baixar todo o material da aula](https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/pmbd2025_2sem/tree/main/02_exercicios_er) <br><br>
 &nbsp;
+[relacionamentos-er.md](https://github.com/IgorAvilaPereira/pmbd2025_2sem/blob/main/./02_exercicios_er/relacionamentos-er.md) <br>
+[imagens](https://github.com/IgorAvilaPereira/pmbd2025_2sem/blob/main/./02_exercicios_er/imagens) <br>
