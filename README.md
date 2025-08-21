@@ -19,6 +19,7 @@
 [setup.md](https://github.com/IgorAvilaPereira/pmbd2025_2sem/blob/main/./01_introducao_er/setup.md) <br>
 [imagens](https://github.com/IgorAvilaPereira/pmbd2025_2sem/blob/main/./01_introducao_er/imagens) <br>
 ## [./02_exercicios_er](https://github.com/IgorAvilaPereira/pmbd2025_2sem/tree/main/./02_exercicios_er) <br>
+[clinica_veterinaria.dia](https://github.com/IgorAvilaPereira/pmbd2025_2sem/blob/main/./02_exercicios_er/clinica_veterinaria.dia) <br>
 [lista_er.md](https://github.com/IgorAvilaPereira/pmbd2025_2sem/blob/main/./02_exercicios_er/lista_er.md) <br>
 ### Sistema Acadêmico
 
