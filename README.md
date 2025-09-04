@@ -70,3 +70,6 @@ Desafios:
 ## [./03_formatura](https://github.com/IgorAvilaPereira/pmbd2025_2sem/tree/main/./03_formatura) <br>
 <br><br>[Baixar todo o material da aula](https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/pmbd2025_2sem/tree/main/03_formatura) <br><br>
 &nbsp;
+## [./04_exercicios](https://github.com/IgorAvilaPereira/pmbd2025_2sem/tree/main/./04_exercicios) <br>
+<br><br>[Baixar todo o material da aula](https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/pmbd2025_2sem/tree/main/04_exercicios) <br><br>
+&nbsp;
