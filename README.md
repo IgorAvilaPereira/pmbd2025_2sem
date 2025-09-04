@@ -73,3 +73,5 @@ Desafios:
 ## [./04_exercicios](https://github.com/IgorAvilaPereira/pmbd2025_2sem/tree/main/./04_exercicios) <br>
 <br><br>[Baixar todo o material da aula](https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/pmbd2025_2sem/tree/main/04_exercicios) <br><br>
 &nbsp;
+[sistema_academico.dia](https://github.com/IgorAvilaPereira/pmbd2025_2sem/blob/main/./04_exercicios/sistema_academico.dia) <br>
+## [./administradora_imoveis.dia](https://github.com/IgorAvilaPereira/pmbd2025_2sem/tree/main/./administradora_imoveis.dia) <br>
