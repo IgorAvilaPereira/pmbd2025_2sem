@@ -67,3 +67,6 @@ Desafios:
 &nbsp;
 [relacionamentos-er.md](https://github.com/IgorAvilaPereira/pmbd2025_2sem/blob/main/./02_exercicios_er/relacionamentos-er.md) <br>
 [imagens](https://github.com/IgorAvilaPereira/pmbd2025_2sem/blob/main/./02_exercicios_er/imagens) <br>
+## [./03_formatura](https://github.com/IgorAvilaPereira/pmbd2025_2sem/tree/main/./03_formatura) <br>
+<br><br>[Baixar todo o material da aula](https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/pmbd2025_2sem/tree/main/03_formatura) <br><br>
+&nbsp;
