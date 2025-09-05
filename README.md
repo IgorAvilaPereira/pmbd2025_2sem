@@ -71,6 +71,7 @@ Desafios:
 <br><br>[Baixar todo o material da aula](https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/pmbd2025_2sem/tree/main/03_formatura) <br><br>
 &nbsp;
 ## [./04_exercicios](https://github.com/IgorAvilaPereira/pmbd2025_2sem/tree/main/./04_exercicios) <br>
+[administradora_imoveis.dia](https://github.com/IgorAvilaPereira/pmbd2025_2sem/blob/main/./04_exercicios/administradora_imoveis.dia) <br>
 [entidade-associativa.md](https://github.com/IgorAvilaPereira/pmbd2025_2sem/blob/main/./04_exercicios/entidade-associativa.md) <br>
 [entidade-fraca.md](https://github.com/IgorAvilaPereira/pmbd2025_2sem/blob/main/./04_exercicios/entidade-fraca.md) <br>
 * Entidade Fraca e continuação Lista ER
@@ -150,4 +151,3 @@ Modelagem Lógica (Modelo Relacional)
 [transformacao-er-modelo-relacional.pdf](https://github.com/IgorAvilaPereira/pmbd2025_2sem/blob/main/./05_modelagem_logica/transformacao-er-modelo-relacional.pdf) <br>
 [exemplos](https://github.com/IgorAvilaPereira/pmbd2025_2sem/blob/main/./05_modelagem_logica/exemplos) <br>
 [imagens](https://github.com/IgorAvilaPereira/pmbd2025_2sem/blob/main/./05_modelagem_logica/imagens) <br>
-## [./administradora_imoveis.dia](https://github.com/IgorAvilaPereira/pmbd2025_2sem/tree/main/./administradora_imoveis.dia) <br>
