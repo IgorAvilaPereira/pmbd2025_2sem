@@ -71,7 +71,22 @@ Desafios:
 <br><br>[Baixar todo o material da aula](https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/pmbd2025_2sem/tree/main/03_formatura) <br><br>
 &nbsp;
 ## [./04_exercicios](https://github.com/IgorAvilaPereira/pmbd2025_2sem/tree/main/./04_exercicios) <br>
-<br><br>[Baixar todo o material da aula](https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/pmbd2025_2sem/tree/main/04_exercicios) <br><br>
-&nbsp;
+[entidade-associativa.md](https://github.com/IgorAvilaPereira/pmbd2025_2sem/blob/main/./04_exercicios/entidade-associativa.md) <br>
+[entidade-fraca.md](https://github.com/IgorAvilaPereira/pmbd2025_2sem/blob/main/./04_exercicios/entidade-fraca.md) <br>
+* Entidade Fraca e continuação Lista ER
+
+**Opcional:**
+
+* Entidade Associativa
+
+
+**Material Complementar:**
+
+* [Video - Recapitulação + Entidade Fraca + Generalização/Especialização](https://www.youtube.com/watch?v=WuOItyxbKQc)
+
+
+
+[Baixar todo o material da aula](https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/pmbd2025_2sem/tree/main/./04_exercicios)
 [sistema_academico.dia](https://github.com/IgorAvilaPereira/pmbd2025_2sem/blob/main/./04_exercicios/sistema_academico.dia) <br>
+[imagens](https://github.com/IgorAvilaPereira/pmbd2025_2sem/blob/main/./04_exercicios/imagens) <br>
 ## [./administradora_imoveis.dia](https://github.com/IgorAvilaPereira/pmbd2025_2sem/tree/main/./administradora_imoveis.dia) <br>
