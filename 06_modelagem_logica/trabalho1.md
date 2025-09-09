@@ -1,8 +1,4 @@
-Perfeito! Aqui está o trabalho ajustado conforme solicitado: as entidades com seus atributos, sem mencionar chaves estrangeiras (FKs) — apenas os relacionamentos descritos para que o aluno possa inferir as FKs no modelo relacional.
-
----
-
-# Trabalho de Modelagem de Banco de Dados
+# Trabalho 1 
 
 ## 1. Contexto do Problema
 
