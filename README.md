@@ -152,6 +152,7 @@ Modelagem Lógica (Modelo Relacional)
 [exemplos](https://github.com/IgorAvilaPereira/pmbd2025_2sem/blob/main/./05_modelagem_logica/exemplos) <br>
 [imagens](https://github.com/IgorAvilaPereira/pmbd2025_2sem/blob/main/./05_modelagem_logica/imagens) <br>
 ## [./06_modelagem_logica](https://github.com/IgorAvilaPereira/pmbd2025_2sem/tree/main/./06_modelagem_logica) <br>
+[ARTIGO.dia](https://github.com/IgorAvilaPereira/pmbd2025_2sem/blob/main/./06_modelagem_logica/ARTIGO.dia) <br>
 <br><br>[Baixar todo o material da aula](https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/pmbd2025_2sem/tree/main/06_modelagem_logica) <br><br>
 &nbsp;
 [trabalho1.md](https://github.com/IgorAvilaPereira/pmbd2025_2sem/blob/main/./06_modelagem_logica/trabalho1.md) <br>
