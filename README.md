@@ -157,5 +157,15 @@ Modelagem Lógica (Modelo Relacional)
 &nbsp;
 [trabalho1.md](https://github.com/IgorAvilaPereira/pmbd2025_2sem/blob/main/./06_modelagem_logica/trabalho1.md) <br>
 ## [./07_modelagem_logica](https://github.com/IgorAvilaPereira/pmbd2025_2sem/tree/main/./07_modelagem_logica) <br>
+* Atributos compostos
+
+* Atributos multivalorados
+
+* Entidade Fraca
+
+* Entidade Associativa
+
+* Especializações/Generalizações
+
 <br><br>[Baixar todo o material da aula](https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/pmbd2025_2sem/tree/main/07_modelagem_logica) <br><br>
 &nbsp;
