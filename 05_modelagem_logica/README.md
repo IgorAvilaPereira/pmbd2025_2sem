@@ -35,6 +35,7 @@ Modelagem Lógica (Modelo Relacional)
 [Conversão - DER para Modelo Relacional (Herança)](https://github.com/IgorAvilaPereira/pmbd2023_1sem/blob/main/9conversao-entre-modelos-er-e-relacional-heranca.md)
 -->
 
+<!--
 **Resumo (usar com cautela):**
 
 * Entidades Forte, Fraca e Associativa tornam-se, com grande frequência, tabelas.
@@ -45,7 +46,7 @@ Modelagem Lógica (Modelo Relacional)
 * Atributos multivalores tornam-se tabelas.
 * Atributos compostos podem se transformar em 1) colunas (o que a literatura diz) ou em uma 2) nova tabela + um relacionamento _1:n_ com a tabela resultante da entidade que, anteriormente, tinha o atributo composto (solução prática que permite mais uma instância do atributo composto).
 * Especialização/Generalização podem gerar (1) uma única tabela, (2) uma tabela para cada entidade filha ou (3) uma tabela para cada entidade.
-
+-->
 
 
 [Baixar todo o material da aula](https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/pmbd2025_2sem/tree/main/./05_modelagem_logica)
