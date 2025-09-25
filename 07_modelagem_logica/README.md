@@ -1,4 +1,3 @@
-## 🔹 O que é?
 
 * **Generalização**: pegar várias entidades semelhantes e criar uma entidade mais geral.
   Ex.: *Professor* e *Aluno* → **Pessoa**.
