@@ -134,6 +134,7 @@ Modelagem Lógica (Modelo Relacional)
 [Conversão - DER para Modelo Relacional (Herança)](https://github.com/IgorAvilaPereira/pmbd2023_1sem/blob/main/9conversao-entre-modelos-er-e-relacional-heranca.md)
 -->
 
+<!--
 **Resumo (usar com cautela):**
 
 * Entidades Forte, Fraca e Associativa tornam-se, com grande frequência, tabelas.
@@ -144,7 +145,7 @@ Modelagem Lógica (Modelo Relacional)
 * Atributos multivalores tornam-se tabelas.
 * Atributos compostos podem se transformar em 1) colunas (o que a literatura diz) ou em uma 2) nova tabela + um relacionamento _1:n_ com a tabela resultante da entidade que, anteriormente, tinha o atributo composto (solução prática que permite mais uma instância do atributo composto).
 * Especialização/Generalização podem gerar (1) uma única tabela, (2) uma tabela para cada entidade filha ou (3) uma tabela para cada entidade.
-
+-->
 
 
 [Baixar todo o material da aula](https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/pmbd2025_2sem/tree/main/./05_modelagem_logica)
@@ -153,6 +154,18 @@ Modelagem Lógica (Modelo Relacional)
 [imagens](https://github.com/IgorAvilaPereira/pmbd2025_2sem/blob/main/./05_modelagem_logica/imagens) <br>
 ## [./06_modelagem_logica](https://github.com/IgorAvilaPereira/pmbd2025_2sem/tree/main/./06_modelagem_logica) <br>
 [ARTIGO.dia](https://github.com/IgorAvilaPereira/pmbd2025_2sem/blob/main/./06_modelagem_logica/ARTIGO.dia) <br>
+**Resumo (usar com cautela):**
+
+* Entidades Forte, Fraca e Associativa tornam-se, com grande frequência, tabelas.
+* Atributos identificadores tornam-se chaves primárias.
+* Relacionamentos _1:n_ exigem a criação de uma coluna adicional na tabela referente ao _n_ do relacionamento, denominada de chave estrangeira.
+* Relacionamentos com atributos, geralmente, fazem com que estes relacionamentos sejam mapeados como tabelas.
+* Relacionamentos _n:m_ (muitos para muitos) devem ser quebrados em 2 relacionamentos _1:n_ e exigem a criação de uma tabela intermediária
+* Atributos multivalores tornam-se tabelas.
+* Atributos compostos podem se transformar em 1) colunas (o que a literatura diz) ou em uma 2) nova tabela + um relacionamento _1:n_ com a tabela>
+* Especialização/Generalização podem gerar (1) uma única tabela, (2) uma tabela para cada entidade filha ou (3) uma tabela para cada entidade.
+
+
 <br><br>[Baixar todo o material da aula](https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/pmbd2025_2sem/tree/main/06_modelagem_logica) <br><br>
 &nbsp;
 [trabalho1.md](https://github.com/IgorAvilaPereira/pmbd2025_2sem/blob/main/./06_modelagem_logica/trabalho1.md) <br>
