@@ -328,6 +328,8 @@ Cliente(cod_cliente PK, nome, rua, numero, cidade, cep)
 [regras_mapeamento](https://github.com/IgorAvilaPereira/pmbd2025_2sem/blob/main/./08_modelagem_logica/regras_mapeamento) <br>
 [slides_normalizacao](https://github.com/IgorAvilaPereira/pmbd2025_2sem/blob/main/./08_modelagem_logica/slides_normalizacao) <br>
 ## [./09_modelagem_logica](https://github.com/IgorAvilaPereira/pmbd2025_2sem/tree/main/./09_modelagem_logica) <br>
+[exemplo.dia](https://github.com/IgorAvilaPereira/pmbd2025_2sem/blob/main/./09_modelagem_logica/exemplo.dia) <br>
+[igor_amazon.sql](https://github.com/IgorAvilaPereira/pmbd2025_2sem/blob/main/./09_modelagem_logica/igor_amazon.sql) <br>
 ### 🔹 1. Entidade Associativa
 
 Uma **entidade associativa** (também chamada de entidade de relacionamento) surge quando você tem um relacionamento **M:N** entre duas entidades fortes e precisa transformá-lo em uma tabela.
@@ -395,3 +397,4 @@ ProjetoInterno(cod_depto PK, num_proj PK, descricao,
 <br><br>[Baixar todo o material da aula](https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/pmbd2025_2sem/tree/main/09_modelagem_logica) <br><br>
 
 &nbsp;
+[conexao](https://github.com/IgorAvilaPereira/pmbd2025_2sem/blob/main/./09_modelagem_logica/conexao) <br>
