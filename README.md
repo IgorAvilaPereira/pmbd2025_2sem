@@ -398,3 +398,6 @@ ProjetoInterno(cod_depto PK, num_proj PK, descricao,
 
 &nbsp;
 [conexao](https://github.com/IgorAvilaPereira/pmbd2025_2sem/blob/main/./09_modelagem_logica/conexao) <br>
+## [./10_revisao_atividade1](https://github.com/IgorAvilaPereira/pmbd2025_2sem/tree/main/./10_revisao_atividade1) <br>
+<br><br>[Baixar todo o material da aula](https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/pmbd2025_2sem/tree/main/10_revisao_atividade1) <br><br>
+&nbsp;
