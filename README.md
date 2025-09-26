@@ -397,6 +397,8 @@ ProjetoInterno(cod_depto PK, num_proj PK, descricao,
 <br><br>[Baixar todo o material da aula](https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/pmbd2025_2sem/tree/main/09_modelagem_logica) <br><br>
 
 &nbsp;
+[sql1.pdf](https://github.com/IgorAvilaPereira/pmbd2025_2sem/blob/main/./09_modelagem_logica/sql1.pdf) <br>
+[sql2.pdf](https://github.com/IgorAvilaPereira/pmbd2025_2sem/blob/main/./09_modelagem_logica/sql2.pdf) <br>
 [conexao](https://github.com/IgorAvilaPereira/pmbd2025_2sem/blob/main/./09_modelagem_logica/conexao) <br>
 ## [./10_revisao_atividade1](https://github.com/IgorAvilaPereira/pmbd2025_2sem/tree/main/./10_revisao_atividade1) <br>
 * Modelagem Conceitual: ER
