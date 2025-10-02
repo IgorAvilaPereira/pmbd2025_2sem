@@ -401,6 +401,8 @@ ProjetoInterno(cod_depto PK, num_proj PK, descricao,
 [sql2.pdf](https://github.com/IgorAvilaPereira/pmbd2025_2sem/blob/main/./09_modelagem_logica/sql2.pdf) <br>
 [conexao](https://github.com/IgorAvilaPereira/pmbd2025_2sem/blob/main/./09_modelagem_logica/conexao) <br>
 ## [./10_revisao_atividade1](https://github.com/IgorAvilaPereira/pmbd2025_2sem/tree/main/./10_revisao_atividade1) <br>
+[itunes_pobre.dia](https://github.com/IgorAvilaPereira/pmbd2025_2sem/blob/main/./10_revisao_atividade1/itunes_pobre.dia) <br>
+[itunes_pobre.sql](https://github.com/IgorAvilaPereira/pmbd2025_2sem/blob/main/./10_revisao_atividade1/itunes_pobre.sql) <br>
 
 * Modelagem Conceitual: ER
 
