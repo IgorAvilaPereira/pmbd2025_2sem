@@ -434,3 +434,7 @@ Além disso:
 ## [./11_atividade1](https://github.com/IgorAvilaPereira/pmbd2025_2sem/tree/main/./11_atividade1) <br>
 <br><br>[Baixar todo o material da aula](https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/pmbd2025_2sem/tree/main/11_atividade1) <br><br>
 &nbsp;
+## [./12_resolucao_atividade1_lista](https://github.com/IgorAvilaPereira/pmbd2025_2sem/tree/main/./12_resolucao_atividade1_lista) <br>
+Fazer o Modelo Relacional
+
+Fazer Lista de Exercício
