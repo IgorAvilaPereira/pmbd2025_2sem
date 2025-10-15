@@ -436,6 +436,7 @@ Além disso:
 &nbsp;
 ## [./12_resolucao_atividade1_lista](https://github.com/IgorAvilaPereira/pmbd2025_2sem/tree/main/./12_resolucao_atividade1_lista) <br>
 [lista.md](https://github.com/IgorAvilaPereira/pmbd2025_2sem/blob/main/./12_resolucao_atividade1_lista/lista.md) <br>
+[pmbd2025_2sem_1atividade.pdf](https://github.com/IgorAvilaPereira/pmbd2025_2sem/blob/main/./12_resolucao_atividade1_lista/pmbd2025_2sem_1atividade.pdf) <br>
 Fazer o Modelo Relacional
 
 Fazer Lista de Exercício
