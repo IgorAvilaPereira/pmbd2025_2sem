@@ -60,4 +60,20 @@ INSERT INTO cliente_aula (cliente_id, aula_id, presente) VALUES
 (1,1, TRUE);
 
 
+select * from instrutor;
+select * from cliente;
+select * from plano;
+select nome from instrutor;
+select * from cliente_aula;
+INSERT INTO aula (nome, horario, instrutor_id) VALUES
+('AULA DE FORRÓ', '21:00', 1);
+SELECT * FROM aula;
+SELECT * FROM aula JOIN instrutor ON instrutor.id = aula.instrutor_id;
+SELECT horario, aula.nome, instrutor.nome FROM aula JOIN instrutor ON instrutor.id = aula.instrutor_id;
+ALTER TABLE cliente ADD COLUMN data_nascimento DATE;
+UPDATE cliente SET data_nascimento = '1987-01-20' where id = 1;
+select * from cliente;
+SELECT nome, CURRENT_DATE - data_nascimento FROM cliente;
+SELECT nome, (CURRENT_DATE - data_nascimento)/365 FROM cliente;
+SELECT nome, age(data_nascimento) FROM cliente;
 
