@@ -432,8 +432,7 @@ Além disso:
 <br><br>[Baixar todo o material da aula](https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/pmbd2025_2sem/tree/main/10_revisao_atividade1) <br><br>
 &nbsp;
 ## [./11_atividade1](https://github.com/IgorAvilaPereira/pmbd2025_2sem/tree/main/./11_atividade1) <br>
-<br><br>[Baixar todo o material da aula](https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/pmbd2025_2sem/tree/main/11_atividade1) <br><br>
-&nbsp;
+[pmbd2025_2sem_1atividade.pdf](https://github.com/IgorAvilaPereira/pmbd2025_2sem/blob/main/./11_atividade1/pmbd2025_2sem_1atividade.pdf) <br>
 ## [./12_resolucao_atividade1_lista](https://github.com/IgorAvilaPereira/pmbd2025_2sem/tree/main/./12_resolucao_atividade1_lista) <br>
 [atividade1.dia](https://github.com/IgorAvilaPereira/pmbd2025_2sem/blob/main/./12_resolucao_atividade1_lista/atividade1.dia) <br>
 [atividade1.sql](https://github.com/IgorAvilaPereira/pmbd2025_2sem/blob/main/./12_resolucao_atividade1_lista/atividade1.sql) <br>
