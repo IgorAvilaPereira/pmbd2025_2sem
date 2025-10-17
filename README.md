@@ -438,9 +438,6 @@ Além disso:
 [atividade1.dia](https://github.com/IgorAvilaPereira/pmbd2025_2sem/blob/main/./12_resolucao_atividade1_lista/atividade1.dia) <br>
 [atividade1.sql](https://github.com/IgorAvilaPereira/pmbd2025_2sem/blob/main/./12_resolucao_atividade1_lista/atividade1.sql) <br>
 [pmbd2025_2sem_1atividade.pdf](https://github.com/IgorAvilaPereira/pmbd2025_2sem/blob/main/./12_resolucao_atividade1_lista/pmbd2025_2sem_1atividade.pdf) <br>
-Fazer o Modelo Relacional
-
-Fazer Lista de Exercício
 [atividade1](https://github.com/IgorAvilaPereira/pmbd2025_2sem/blob/main/./12_resolucao_atividade1_lista/atividade1) <br>
 ## [./13_lista_sql](https://github.com/IgorAvilaPereira/pmbd2025_2sem/tree/main/./13_lista_sql) <br>
 [lista.md](https://github.com/IgorAvilaPereira/pmbd2025_2sem/blob/main/./13_lista_sql/lista.md) <br>
