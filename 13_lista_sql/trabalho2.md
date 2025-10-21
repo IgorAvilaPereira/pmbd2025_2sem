@@ -7,7 +7,7 @@ Este trabalho apresenta o desenvolvimento de um **sistema de gerenciamento de ev
 O sistema permite:
 
 * Cadastro de **usuários** (organizadores),
-* Criação de **eventos públicos**,
+* Criação de **eventos**,
 * Registro de **participantes** e suas **inscrições** em eventos.
 
 ---
@@ -110,6 +110,7 @@ A comunicação entre a aplicação e o banco é feita com **Java JDBC**, que pe
 
 Realize o cadastro de um evento, de um participante e uma inscrição:
 
+<!--
 ```java
 import java.sql.*;
 
@@ -141,7 +142,7 @@ O exemplo demonstra:
 * Estabelecimento da conexão com o banco;
 * Uso de **PreparedStatement** para evitar injeção de SQL;
 * Execução de comando **INSERT** para registrar inscrições.
-
+-->
 ---
 
 ### **5. Conclusão**
