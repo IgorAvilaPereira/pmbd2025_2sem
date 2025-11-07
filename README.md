@@ -443,7 +443,7 @@ Além disso:
 [lista.md](https://github.com/IgorAvilaPereira/pmbd2025_2sem/blob/main/./13_lista_sql/lista.md) <br>
 **Cronograma**
 
-* 06/11: Definição do cronograma, Esclarecimentos sobre o Trabalho 2, Atividade Avaliada 2 e aulas futuras + resolução de exercícios
+* 06/11: Definição do cronograma, Esclarecimentos sobre o Trabalho 2, Atividade Avaliada 2 + Resolução de Exercícios sobre SQL
 
 * 13/11: Terminar a Lista 
 
