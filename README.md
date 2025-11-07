@@ -441,7 +441,7 @@ Além disso:
 ## [./13_lista_sql](https://github.com/IgorAvilaPereira/pmbd2025_2sem/tree/main/./13_lista_sql) <br>
 [aula.sql](https://github.com/IgorAvilaPereira/pmbd2025_2sem/blob/main/./13_lista_sql/aula.sql) <br>
 [lista.md](https://github.com/IgorAvilaPereira/pmbd2025_2sem/blob/main/./13_lista_sql/lista.md) <br>
-# Cronograma
+### Cronograma
 
 * 06/11: Definição do cronograma, Esclarecimentos sobre o Trabalho 2, Atividade Avaliada 2 e aulas futuras + resolução de exercícios
 
