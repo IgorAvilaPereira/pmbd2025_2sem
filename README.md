@@ -455,6 +455,7 @@ Além disso:
 * 11/12: Segunda Chamada (para os que realizarem o requerimento)
 
 * 18/12: Apresentações de Tcc
+[atividade1](https://github.com/IgorAvilaPereira/pmbd2025_2sem/blob/main/./13_lista_sql/atividade1) <br>
 ## [./13_meperg](https://github.com/IgorAvilaPereira/pmbd2025_2sem/tree/main/./13_meperg) <br>
 MEPERG
 ## [./14_lista_sql](https://github.com/IgorAvilaPereira/pmbd2025_2sem/tree/main/./14_lista_sql) <br>
@@ -462,4 +463,6 @@ MEPERG
 [trabalho2.md](https://github.com/IgorAvilaPereira/pmbd2025_2sem/blob/main/./14_lista_sql/trabalho2.md) <br>
 [atividade1](https://github.com/IgorAvilaPereira/pmbd2025_2sem/blob/main/./14_lista_sql/atividade1) <br>
 ## [./15_lista_sql](https://github.com/IgorAvilaPereira/pmbd2025_2sem/tree/main/./15_lista_sql) <br>
+['aula.sql](https://github.com/IgorAvilaPereira/pmbd2025_2sem/blob/main/./15_lista_sql/'aula.sql) <br>
 [lista.md](https://github.com/IgorAvilaPereira/pmbd2025_2sem/blob/main/./15_lista_sql/lista.md) <br>
+[atividade1](https://github.com/IgorAvilaPereira/pmbd2025_2sem/blob/main/./15_lista_sql/atividade1) <br>
