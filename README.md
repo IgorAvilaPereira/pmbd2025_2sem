@@ -465,6 +465,6 @@ MEPERG
 [aula.sql](https://github.com/IgorAvilaPereira/pmbd2025_2sem/blob/main/./15_lista_sql/aula.sql) <br>
 [lista.md](https://github.com/IgorAvilaPereira/pmbd2025_2sem/blob/main/./15_lista_sql/lista.md) <br>
 [atividade1](https://github.com/IgorAvilaPereira/pmbd2025_2sem/blob/main/./15_lista_sql/atividade1) <br>
-## [./16_lista_sql_bloco10_11](https://github.com/IgorAvilaPereira/pmbd2025_2sem/tree/main/./16_lista_sql_bloco10_11) <br>
+## [./16_lista_sql_blocos09_10](https://github.com/IgorAvilaPereira/pmbd2025_2sem/tree/main/./16_lista_sql_blocos09_10) <br>
 <br><br>[Baixar todo o material da aula](https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/pmbd2025_2sem/tree/main/16_lista_sql_bloco10_11) <br><br>
 &nbsp;
