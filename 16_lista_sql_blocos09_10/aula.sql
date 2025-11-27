@@ -37,6 +37,7 @@ select
     
     
 -- 37
+ALTER TABLE professor ADD COLUMN data_contratacao TIMESTAMP DEFAULT CURRENT_TIMESTAMP;
 select nome, extract(year from data_contratacao) as ano from professor;
 
 -- 37 com gambiarra! n faca! n fui eu que disse que assim funciona!
